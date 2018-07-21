@@ -11,5 +11,3 @@ These are my ways to confess love.
 Plot heart by math function
 
 ![Heart Function](./pic/heart_function.png)
-
-
