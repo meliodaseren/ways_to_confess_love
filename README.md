@@ -6,8 +6,6 @@ These are my ways to confess love.
 
 ### Way 001 & Way 002
 
-#### Plot heart
-
-Plot heart by math function
+#### Plot heart by math function
 
 ![Heart Function](./pic/heart_function.png)
