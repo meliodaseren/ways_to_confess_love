@@ -4,7 +4,7 @@ These are my ways to confess love.
 
 * Python 3.6.4
 
-### 001 & 002
+### Way 001 & Way 002
 
 #### Plot heart
 
